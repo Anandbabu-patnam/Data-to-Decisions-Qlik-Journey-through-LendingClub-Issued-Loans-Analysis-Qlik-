@@ -1,3 +1,7 @@
+
+" BUSINESS ANALYTICS WITH QLIK (SMART INTERNZ INTERNSHIP)"
+
+
 Data To Decisions Qlik Journey Through LendingClub Issued Loans Analysis (Qlik)
 Category: Data Analytics
 
